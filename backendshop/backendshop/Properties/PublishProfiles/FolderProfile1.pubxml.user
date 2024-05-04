@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\publish\842024</_PublishTargetUrl>
+    <History>True|2024-04-08T16:36:55.1423190Z;False|2024-04-08T23:36:07.0981269+07:00;True|2024-04-08T23:33:18.3206492+07:00;True|2024-04-03T15:19:00.9064614+07:00;True|2024-04-03T15:18:14.4788835+07:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="backendshopContext">
+      <Value>Data Source=ADMIN-PC%3bInitial Catalog=ShopIntern%3bIntegrated Security=True%3bTrust Server Certificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
